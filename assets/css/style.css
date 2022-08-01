@@ -883,6 +883,10 @@ Color changes in dark theme
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .about__data{
+  padding-left: 1rem;
+  }
+
   .product__description{
     padding: 0 4rem;
   }
