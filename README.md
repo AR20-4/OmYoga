@@ -20,9 +20,13 @@ Mobile Responsiveness: Develop a responsive design with perfectly placed media q
 ## Approach Used:
 
 Research and Planning: Conducted thorough research into Om Yoga's brand, target audience, and competitors to inform design decisions.
+
 Design: Created wireframes and visual designs focusing on simplicity, clarity, and the use of calming colors and imagery.
+
 Development: Implemented the design using HTML5 for structure, CSS3 with BEM (Block Element Modifier), Flexbox, and Grid for layout and responsiveness, and JavaScript for interactivity.
+
 Testing and Optimization: Conducted rigorous testing across various devices and browsers to ensure consistent performance and user experience.
+
 Deployment: Deployed the website on a reliable hosting platform with considerations for security and SEO best practices.
 
 ## Languages, Frameworks, Libraries, or Technologies Used:
